@@ -12,7 +12,7 @@ Events may also be fired asynchronously using one of the methods `fireAsync()`. 
 
 * * *
 
-Where is my [heading](#MyHeading)?
+Where is my [heading](README.md#MyHeading)?
 
 Files Used in the Example
 -------------------------
