@@ -10,9 +10,9 @@ The CDI Events feature allows beans to interact in a decoupled fashion with no c
 
 Events may also be fired asynchronously using one of the methods `fireAsync()`. Event fired with the `fireAsync()` method is fired asynchronously. All the resolved asynchronous observers are called in one or more different threads. Method `fireAsync()` returns immediately.
 
-### <a id="MyHeading"></a>My Heading ###
-
 * * *
+
+Where is my [heading](#MyHeading)?
 
 Files Used in the Example
 -------------------------
